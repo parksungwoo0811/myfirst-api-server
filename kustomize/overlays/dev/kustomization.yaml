@@ -18,4 +18,5 @@ patches:
 #     skala-registry.skala-ai.com/class-10/sk322-webserver=skala-registry.skala-ai.com/class-10/sk322-webserver:<NEW_TAG>
 images:
 - name: skala-registry.skala-ai.com/class-10/sk322-webserver
-  newTag: "1.0"
+  newName: skala-registry.skala-ai.com/class-10/sk322-webserver
+  newTag: 1.0-bd7-bacb67b
